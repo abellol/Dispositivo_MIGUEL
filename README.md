@@ -14,6 +14,8 @@ MIGUEL (Mapeo Inteligente Graficador Utilizando Escaner LiDAR) es un dispositivo
 El proyecto es una propuesta que abre paso a la exploración a profuncidad de temas relacionados con la robótica, automatización y la integración de sensores.
 
 ## Póster
+![Poster]("C:\Users\57320\OneDrive\Escritorio\Lidar\Imagenes_PCB\poster_ingenia.jpg")
+
 
 ## Resultado final
 
