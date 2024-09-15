@@ -3,4 +3,3 @@ La tecnología LIDAR es una tecnología que utiliza pulsos láser para medir dis
 
 Este proyecto propone una solución más accesible para quienes buscan un sistema LIDAR económico sin perder sus prinicipales características de detección. La implementación de este LIDAR permitirá que MIGUEL navegue eficientemente por el entorno, detectando obstáculos y tomando decisiones en tiempo real. A pesar de no contar con la misma resolución que un sistema comercial, sera suficiente para aplicaciones en interiores y con rutas establecidad previamente.
 
-![Poster](C:\Users\57320\OneDrive\Escritorio\Lidar\Dispositivo_MIGUEL\imagenes\poster_ingenia.jpg)
