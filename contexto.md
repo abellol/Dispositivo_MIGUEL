@@ -1,5 +1,0 @@
-## Problemática
-La tecnología LIDAR es una tecnología que utiliza pulsos láser para medir distancias, es un sistema esencial en aplicaciones como la cartografía o los vehículos autónomos; esto debido a su alta precisión, sin embargo, acompañado de estos beneficios vienen precios muy elevados. Para proyectos más simples, como la detección de obstáculos en entornos controlados, un sistema con esas características puede volverse muy complejo y costoso.
-
-Este proyecto propone una solución más accesible para quienes buscan un sistema LIDAR económico sin perder sus prinicipales características de detección. La implementación de este LIDAR permitirá que MIGUEL navegue eficientemente por el entorno, detectando obstáculos y tomando decisiones en tiempo real. A pesar de no contar con la misma resolución que un sistema comercial, sera suficiente para aplicaciones en interiores y con rutas establecidad previamente.
-
