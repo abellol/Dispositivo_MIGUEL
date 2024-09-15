@@ -15,6 +15,8 @@ El proyecto es una propuesta que abre paso a la exploración a profuncidad de te
 
 ## Póster
 
+![Poster](C:\Users\57320\OneDrive\Escritorio\Lidar\Dispositivo_MIGUEL\imagenes\poster_ingenia.jpg)
+
 
 ## Resultado final
 
