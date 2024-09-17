@@ -29,7 +29,7 @@ def receive_data():
 
 def init_df(n_rows):
     # Datos de ejemplo
-    theta = np.degrees(np.linspace(0, 2 * np.pi, n_rows))  # Ángulo theta
+    theta = np.degrees(np.linspace(0, 2 * np.pi, n_rows, endpoint=False))  # Ángulo theta
     R = np.full(n_rows, np.nan)
     df = pd.DataFrame({'theta': theta, 'R': R})
     return df
@@ -90,6 +90,7 @@ def blank_df(df):
 if __name__ == "__main__":
     # Dataframe donde se almacenarán los datos
     df = init_df(51)
+    print('Dataframe inicial:')
     print(df)
 
     # Evento para detener el gráfico
@@ -112,6 +113,7 @@ if __name__ == "__main__":
     graph_thread.join()
     #graph_df(df)
 
+    print('\nDataframe final:')
     print(df)
     print("Cerrando conexiÃ³n")
     sk.close()
