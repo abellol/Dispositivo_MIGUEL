@@ -109,7 +109,7 @@ if __name__ == "__main__":
         update_value_df(df, i, dato[0])
         # Cerrar la conexiÃ³n
     
-    stop_event.set()  # Enviar señal para detener el hilo si sigue corriendo
+    #stop_event.set()  # Comentada para terminar con 'q', descomentada para terminar automáticamente
     graph_thread.join()
     #graph_df(df)
 
