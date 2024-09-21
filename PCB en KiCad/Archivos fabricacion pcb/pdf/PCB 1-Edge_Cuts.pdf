@@ -1,0 +1,660 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄mã1Ä0˜æ"/àö¶$Èê·	HæO–Eñ%Îl{Ù^¯[5Œ;ŸÎ”¿±ºaÏ¡ê£DÅ”5›°Ñb]≥DRd¶Dh∞;Ì‘c![!Å-j&ﬂ´%ı5πä&◊
+endstream
+endobj
+6 0 obj
+105
+endobj
+23 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R]
+endobj
+24 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 23 0 R>>
+endobj
+25 0 obj
+<</S /GoTo /D [24 0 R /Fit]
+>>
+endobj
+28 0 obj
+<</S /GoTo /D [24 0 R /FitR 328 380 354 333]
+>>
+endobj
+30 0 obj
+<</S /GoTo /D [24 0 R /FitR 261 228 328 168]
+>>
+endobj
+32 0 obj
+<</S /GoTo /D [24 0 R /FitR 393 490 480 345]
+>>
+endobj
+34 0 obj
+<</S /GoTo /D [24 0 R /FitR 447 551 564 106]
+>>
+endobj
+36 0 obj
+<</S /GoTo /D [24 0 R /FitR 269 453 297 425]
+>>
+endobj
+38 0 obj
+<</S /GoTo /D [24 0 R /FitR 304 286 360 149]
+>>
+endobj
+40 0 obj
+<</S /GoTo /D [24 0 R /FitR 485 222 557 162]
+>>
+endobj
+42 0 obj
+<</S /GoTo /D [24 0 R /FitR 297 290 325 262]
+>>
+endobj
+44 0 obj
+<</S /GoTo /D [24 0 R /FitR 242 417 336 334]
+>>
+endobj
+46 0 obj
+<</S /GoTo /D [24 0 R /FitR 309 476 339 363]
+>>
+endobj
+48 0 obj
+<</S /GoTo /D [24 0 R /FitR 325 443 492 123]
+>>
+endobj
+50 0 obj
+<</S /GoTo /D [24 0 R /FitR 474 219 503 191]
+>>
+endobj
+52 0 obj
+<</S /GoTo /D [24 0 R /FitR 446 304 474 276]
+>>
+endobj
+54 0 obj
+<</S /GoTo /D [24 0 R /FitR 266 296 308 241]
+>>
+endobj
+56 0 obj
+<</S /GoTo /D [24 0 R /FitR 242 358 367 301]
+>>
+endobj
+58 0 obj
+<</S /GoTo /D [24 0 R /FitR 335 473 412 391]
+>>
+endobj
+60 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+61 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+62 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+63 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 60 0 R
+    /KicadFontI 61 0 R
+    /KicadFontB 62 0 R
+    /KicadFontBI 63 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [334.971 350.737 348.024 363.635]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C2"],
+["Value = 1n"],
+["Footprint = CP_Radial_D4.0mm_P2.00mm"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [283.394 183.493 306.213 213.398]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J8"],
+["Value = Motor 2"],
+["Footprint = TerminalBlock_bornier-2_P5.08mm"],
+["Description = Generic screw terminal, single row, 01x02, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [415.191 381.762 458.731 454.102]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U4"],
+["Value = mh-cd42"],
+["Footprint = mh-cd42"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [476.858 217.65 535.11 440.028]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = BT1"],
+["Value = Battery"],
+["Footprint = BatteryHolder_MPD_BH-18650-PC2"],
+["Description = Multiple-cell battery"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [276.378 432.304 290.551 446.477]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = "],
+["Value = "],
+["Footprint = "],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [318.26 188.085 346.181 247.329]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U2"],
+["Value = L293D"],
+["Footprint = DIP-16_W7.62mm"],
+["Datasheet = http://www.ti.com/lit/ds/symlink/l293.pdf", "http://www.ti.com/lit/ds/symlink/l293.pdf"],
+["Description = Quadruple Half-H Drivers"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [508.748 177.824 531.567 207.729]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J7"],
+["Value = Motor 1"],
+["Footprint = TerminalBlock_bornier-2_P5.08mm"],
+["Description = Generic screw terminal, single row, 01x02, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [304.724 269.312 318.898 283.485]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = "],
+["Value = "],
+["Footprint = "],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [269.787 370.438 308.906 380.784]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J2"],
+["Value = Motor paso a paso"],
+["Footprint = PinHeader_1x05_P2.54mm_Vertical"],
+["Description = Generic connector, single row, 01x05, script generated"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [319.465 396.446 329.669 442.65]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = Sensor"],
+["Footprint = PinSocket_1x06_P2.54mm_Vertical"],
+["Description = Generic connector, single row, 01x06, script generated"],
+]\);) >>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [367.072 210.493 450.85 356.477]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U1"],
+["Value = ESP32-DEVKIT-V1"],
+["Footprint = MODULE_ESP32_DEVKIT_V1"],
+["MF = Do it"],
+["MAXIMUM_PACKAGE_HEIGHT = 6.8 mm"],
+["Package = None"],
+["Price = None"],
+["Check_prices = https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda", "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"],
+["STANDARD = Manufacturer Recommendations"],
+["PARTREV = N/A"],
+["SnapEDA_Link = https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap", "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"],
+["MP = ESP32-DEVKIT-V1"],
+["Description_1 = 
+Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE \\u0028Bluetooth Low Energy\\u0029 and legacy Bluetooth, 32 bits, Up to 240 MHz
+"],
+["Availability = Not in stock"],
+["MANUFACTURER = DOIT"],
+]\);) >>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [481.89 198.446 496.063 212.619]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = "],
+["Value = "],
+["Footprint = "],
+]\);) >>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [453.543 283.485 467.717 297.658]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = "],
+["Value = "],
+["Footprint = "],
+]\);) >>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [277.101 258.696 298.332 279.927]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C1"],
+["Value = 1u"],
+["Footprint = CP_Radial_Tantal_D5.5mm_P5.00mm"],
+["Description = Polarized capacitor"],
+]\);) >>
+>>
+endobj
+21 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [278.872 315.417 336.246 343.891]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U3"],
+["Value = ULN2003A"],
+["Footprint = DIP794W45P254L1969H508Q16"],
+["Datasheet = http://www.ti.com/lit/ds/symlink/uln2003a.pdf", "http://www.ti.com/lit/ds/symlink/uln2003a.pdf"],
+["Description = High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16"],
+]\);) >>
+>>
+endobj
+22 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [354.969 418.06 387.95 452.855]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J3"],
+["Value = Barrel_Jack_Switch"],
+["Footprint = BarrelJack_Horizontal"],
+["Description = DC Barrel Jack with an internal switch"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+24 0 R
+]
+/Count 1
+>>
+endobj
+64 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20240909115518)
+/Creator (PCBNEW)
+/Title (PCB 1-Edge_Cuts.pdf)
+>>
+endobj
+37 0 obj
+<<
+/Title ()
+/Parent 27 0 R
+/Next 43 0 R
+/A 36 0 R
+>>
+endobj
+43 0 obj
+<<
+/Title ()
+/Parent 27 0 R
+/Next 51 0 R
+/Prev 37 0 R
+/A 42 0 R
+>>
+endobj
+51 0 obj
+<<
+/Title ()
+/Parent 27 0 R
+/Next 53 0 R
+/Prev 43 0 R
+/A 50 0 R
+>>
+endobj
+53 0 obj
+<<
+/Title ()
+/Parent 27 0 R
+/Next 35 0 R
+/Prev 51 0 R
+/A 52 0 R
+>>
+endobj
+35 0 obj
+<<
+/Title (BT1)
+/Parent 27 0 R
+/Next 55 0 R
+/Prev 53 0 R
+/A 34 0 R
+>>
+endobj
+55 0 obj
+<<
+/Title (C1)
+/Parent 27 0 R
+/Next 29 0 R
+/Prev 35 0 R
+/A 54 0 R
+>>
+endobj
+29 0 obj
+<<
+/Title (C2)
+/Parent 27 0 R
+/Next 47 0 R
+/Prev 55 0 R
+/A 28 0 R
+>>
+endobj
+47 0 obj
+<<
+/Title (J1)
+/Parent 27 0 R
+/Next 45 0 R
+/Prev 29 0 R
+/A 46 0 R
+>>
+endobj
+45 0 obj
+<<
+/Title (J2)
+/Parent 27 0 R
+/Next 59 0 R
+/Prev 47 0 R
+/A 44 0 R
+>>
+endobj
+59 0 obj
+<<
+/Title (J3)
+/Parent 27 0 R
+/Next 41 0 R
+/Prev 45 0 R
+/A 58 0 R
+>>
+endobj
+41 0 obj
+<<
+/Title (J7)
+/Parent 27 0 R
+/Next 31 0 R
+/Prev 59 0 R
+/A 40 0 R
+>>
+endobj
+31 0 obj
+<<
+/Title (J8)
+/Parent 27 0 R
+/Next 49 0 R
+/Prev 41 0 R
+/A 30 0 R
+>>
+endobj
+49 0 obj
+<<
+/Title (U1)
+/Parent 27 0 R
+/Next 39 0 R
+/Prev 31 0 R
+/A 48 0 R
+>>
+endobj
+39 0 obj
+<<
+/Title (U2)
+/Parent 27 0 R
+/Next 57 0 R
+/Prev 49 0 R
+/A 38 0 R
+>>
+endobj
+57 0 obj
+<<
+/Title (U3)
+/Parent 27 0 R
+/Next 33 0 R
+/Prev 39 0 R
+/A 56 0 R
+>>
+endobj
+33 0 obj
+<<
+/Title (U4)
+/Parent 27 0 R
+/Prev 57 0 R
+/A 32 0 R
+>>
+endobj
+27 0 obj
+<<
+/Title (Footprints)
+/Parent 26 0 R
+/Count -16
+/First 37 0 R
+/Last 33 0 R
+/A 25 0 R
+>>
+endobj
+26 0 obj
+<<
+/Title (Page 1)
+/Parent 65 0 R
+/Count -1
+/First 27 0 R
+/Last 27 0 R
+/A 25 0 R
+>>
+endobj
+65 0 obj
+<< /Type /Outlines
+   /Count 18
+   /First 26 0 R
+   /Last 26 0 R
+>>
+endobj
+66 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 65 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 67
+0000000000 65535 f 
+0000008476 00000 n 
+0000002068 00000 n 
+0000002181 00000 n 
+0000007907 00000 n 
+0000000015 00000 n 
+0000000194 00000 n 
+0000002202 00000 n 
+0000002495 00000 n 
+0000002898 00000 n 
+0000003138 00000 n 
+0000003442 00000 n 
+0000003667 00000 n 
+0000004060 00000 n 
+0000004464 00000 n 
+0000004689 00000 n 
+0000005038 00000 n 
+0000005375 00000 n 
+0000006360 00000 n 
+0000006584 00000 n 
+0000006809 00000 n 
+0000007108 00000 n 
+0000007585 00000 n 
+0000000213 00000 n 
+0000000340 00000 n 
+0000000544 00000 n 
+0000010092 00000 n 
+0000009987 00000 n 
+0000000591 00000 n 
+0000009150 00000 n 
+0000000655 00000 n 
+0000009575 00000 n 
+0000000719 00000 n 
+0000009915 00000 n 
+0000000783 00000 n 
+0000008979 00000 n 
+0000000847 00000 n 
+0000008660 00000 n 
+0000000911 00000 n 
+0000009745 00000 n 
+0000000975 00000 n 
+0000009490 00000 n 
+0000001039 00000 n 
+0000008730 00000 n 
+0000001103 00000 n 
+0000009320 00000 n 
+0000001167 00000 n 
+0000009235 00000 n 
+0000001231 00000 n 
+0000009660 00000 n 
+0000001295 00000 n 
+0000008813 00000 n 
+0000001359 00000 n 
+0000008896 00000 n 
+0000001423 00000 n 
+0000009065 00000 n 
+0000001487 00000 n 
+0000009830 00000 n 
+0000001551 00000 n 
+0000009405 00000 n 
+0000001615 00000 n 
+0000001722 00000 n 
+0000001837 00000 n 
+0000001949 00000 n 
+0000008536 00000 n 
+0000010192 00000 n 
+0000010276 00000 n 
+trailer
+<< /Size 67 /Root 66 0 R /Info 64 0 R >>
+startxref
+10417
+%%EOF
