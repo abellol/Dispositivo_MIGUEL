@@ -22,5 +22,7 @@ Puedes visitar nuestra [wiki del proyecto](https://github.com/abellol/Dispositiv
 
 ## Resultado final
 
+https://github.com/user-attachments/assets/6533ad30-b109-4fec-b7e1-59a3a72a6980
+
 ## Vídeo explicativo del proyecto
 
