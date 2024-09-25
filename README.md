@@ -26,3 +26,5 @@ https://github.com/user-attachments/assets/6533ad30-b109-4fec-b7e1-59a3a72a6980
 
 ## Vídeo explicativo del proyecto
 
+Pueden ver el video en este [enlace](https://www.youtube.com/watch?v=PxDm3hlaaLA) a YouTube
+
