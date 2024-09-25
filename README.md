@@ -5,7 +5,7 @@ El proyecto fue diseñado y desarrollado por:
 | Nombre | Programa |
 |:-|:-|
 |Alejandro Bello León | ``Ing. Mecatrónica``|
-|Ricardo Taizoo Avila Molina | ``Ing. Mecatrónica``|
+|Ricardo Taizoo Avila  | ``Ing. Mecatrónica``|
 |Fabio Guillermo Castellanos Lenes | ``Física``|
 
 ## Introducción
