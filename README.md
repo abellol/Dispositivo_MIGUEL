@@ -6,7 +6,7 @@ El proyecto fue diseñado y desarrollado por:
 |:-|:-|
 |Alejandro Bello León | ``Ing. Mecatrónica``|
 |Ricardo Taizoo Avila Molina | ``Ing. Mecatrónica``|
-|Fabio Guillero Castellanos Lenes | ``Física``|
+|Fabio Guillermo Castellanos Lenes | ``Física``|
 
 ## Introducción
 MIGUEL (Mapeo Inteligente Graficador Utilizando Escaner LiDAR) es un dispositivo autónomo diseñado para navegar por entornos controlados evitando obstaculos y tomando decisiones en tiempo real basadas en los datos que recibe. El vehículo escanea y grafica continuamente su entorno, identificando obstáculos para asegurar un movimiento eficiente dentro del espacio.
